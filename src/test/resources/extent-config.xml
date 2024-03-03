@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>UTF-8</encoding>
+        <statusConfig>
+            <enabled>true</enabled>
+            <knownStatuses>
+                <status>passed</status>
+                <status>failed</status>
+                <status>skipped</status>
+            </knownStatuses>
+        </statusConfig>
+        <protocol>HTTPS</protocol>
+        <documentTitle>Your Document Title</documentTitle>
+        <reportName>Your Report Name</reportName>
+    </configuration>
+</extentreports>
